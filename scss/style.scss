@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'The Amazing Spider-Man';
+    src: url("../fonts/The Amazing Spider-Man.ttf");
+  }
+
+
+
+
+@import "../libs/bootstrap/scss/bootstrap";
+
+h1 {
+    font-family: "The Amazing Spider-Man";
+  }
+
